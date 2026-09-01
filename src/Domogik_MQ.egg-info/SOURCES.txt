@@ -1,3 +1,5 @@
+COPYING
+LICENSE
 README.md
 setup.py
 src/Domogik_MQ.egg-info/PKG-INFO
